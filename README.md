@@ -1,6 +1,6 @@
 # Assignment 3 - server  
 
-# Server url on Heroku
+## Server url on Heroku
 ``` https://introsde-assignment3-server.herokuapp.com/ws?wsdl ```  
 
 ## Short description of the packages  
